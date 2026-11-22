@@ -5,3 +5,7 @@ terraform {
 output "project" {
   value = "Project 18"
 }
+
+output "environment" {
+  value = "production"
+}
